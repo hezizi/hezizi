@@ -8,5 +8,4 @@
 - ✨ [segmentfalut](https://segmentfault.com/u/hezizi)
 
 #### ✨ 公众号【<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank">前端仓库</a>】
-<img src="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" alt="qrcode" width="120">
 
