@@ -1,6 +1,6 @@
-<h1>Welcome 👋</h1>
+<h1>Welcome 👋 &nbsp;&nbsp;I'm Yucihent</h1>
 
-Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子子
+<p>A Front-End developer from China, you can also call me 赫子子, I'm interested in music :notes: and photography :camera:</p>
 
 <h3>:rocket: &nbsp;Technologies and Skills</h3>
 
