@@ -4,8 +4,8 @@ Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子�
 
 ### Find me
 
-- :computer: &nbsp;[my space](https://yucihent.space/)
-- :sparkles: &nbsp;<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank">前端仓库</a>
+- :computer: &nbsp;<a href="https://yucihent.space/" target="_blank" rel="noopener noreferrer">my space</a>
+- :sparkles: &nbsp;<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank" rel="noopener noreferrer">前端仓库</a>
 
 ### Technologies and Skills
 
