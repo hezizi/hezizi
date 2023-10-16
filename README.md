@@ -1,13 +1,9 @@
-# Welcome 👋
+<h1>Welcome 👋</h1>
 
 Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子子
 
-### Find me
 
-- :computer: &nbsp;<a href="https://yucihent.space/" target="_blank" rel="noopener noreferrer">my space</a>
-- :sparkles: &nbsp;<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank" rel="noopener noreferrer">前端仓库</a>
-
-### Technologies and Skills
+<h3>:rocket: &nbsp;Technologies and Skills</h3>
 
 <div>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">&nbsp;
@@ -37,6 +33,11 @@ Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子�
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-eee?style=flat&logo=pnpm" />
 </div>
 
-### Github Stats
+<h3>:e-mail: &nbsp;Find me</h3>
+
+- :house_with_garden: &nbsp;<a href="https://yucihent.space/" target="_blank" rel="noopener noreferrer">my space</a>
+- :sparkles: &nbsp;<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank" rel="noopener noreferrer">前端仓库</a>
+
+<h3>:bar_chart: &nbsp;Github Stats</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=500&radius=15&area=true" width="80%"/>
