@@ -2,7 +2,6 @@
 
 Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子子
 
-
 <h3>:rocket: &nbsp;Technologies and Skills</h3>
 
 <div>
@@ -40,4 +39,4 @@ Hi, I'm Yucihent, A front-end developer from China, you can also call me 赫子�
 
 <h3>:bar_chart: &nbsp;Github Stats</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=500&radius=15&area=true" width="80%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=500&radius=15&area=true" />
