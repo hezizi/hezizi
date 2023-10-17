@@ -2,7 +2,7 @@
 
 <p>A Front-End developer, I'm interested in music :notes: and photography :camera:</p>
 
-<p>I'm developing some projects and will open source them in a while</p>
+<p>I'm developing some projects now and will open source them in a while</p>
 
 <h3>:rocket: &nbsp;Skills currently in use and previously used</h3>
 
@@ -29,7 +29,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-333?style=flat&logo=electron&logoColor=white" />&nbsp;
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />&nbsp;
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-eee?style=flat&logo=tailwindcss" />&nbsp;
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />&nbsp;
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />&nbsp;
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp;
   <img alt="pnpm" src="https://img.shields.io/badge/-pnpm-eee?style=flat&logo=pnpm" />
 </div>
@@ -41,4 +41,4 @@
 
 <h3>:bar_chart: &nbsp;Github Stats</h3>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=420&radius=15&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=400&radius=15&area=true" />
