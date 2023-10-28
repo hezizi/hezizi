@@ -18,10 +18,10 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-333?style=flat&logo=webpack">&nbsp;
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=ffcf26">&nbsp;
   <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />&nbsp;
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />&nbsp;
 </div>
 
 <div>
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />&nbsp;
   <img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-ea2845?style=flat&logo=nestjs&logoColor=white" />&nbsp;
   <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-23C8DA?style=flat&logo=tauri&logoColor=white" />&nbsp;
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-333?style=flat&logo=electron&logoColor=white" />&nbsp;
