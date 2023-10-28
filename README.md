@@ -17,17 +17,14 @@
   <img alt="esbuild" src="https://img.shields.io/badge/-esbuild-333?style=flat&logo=esbuild">&nbsp;
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-333?style=flat&logo=webpack">&nbsp;
   <img alt="Rollup" src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat&logo=rollup.js&logoColor=ffcf26">&nbsp;
-  <img alt="Deno" src="https://img.shields.io/badge/-Deno-000?style=flat&logo=deno" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />&nbsp;
+  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />&nbsp;
 </div>
 
 <div>
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />&nbsp;
-  <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white" />&nbsp;
-  <img alt="Astro" src="https://img.shields.io/badge/-Astro-333?style=flat&logo=Astro&logoColor=white" />&nbsp;
   <img alt="Nestjs" src="https://img.shields.io/badge/-Nestjs-ea2845?style=flat&logo=nestjs&logoColor=white" />&nbsp;
   <img alt="Tauri" src="https://img.shields.io/badge/-Tauri-23C8DA?style=flat&logo=tauri&logoColor=white" />&nbsp;
   <img alt="Electron" src="https://img.shields.io/badge/-Electron-333?style=flat&logo=electron&logoColor=white" />&nbsp;
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat&logo=mongodb&logoColor=white" />&nbsp;
   <img alt="Tailwindcss" src="https://img.shields.io/badge/-Tailwindcss-eee?style=flat&logo=tailwindcss" />&nbsp;
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />&nbsp;
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />&nbsp;
