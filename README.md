@@ -35,7 +35,3 @@
 
 - :house_with_garden: &nbsp;<a href="https://yucihent.space/" target="_blank" rel="noopener noreferrer">my space</a>
 - :sparkles: &nbsp;<a href="https://github.com/hezizi/hezizi/assets/28501094/79694b11-d8c4-4e3c-a79e-6c2f70e27846" target="_blank" rel="noopener noreferrer">前端仓库</a>
-
-<h3>:bar_chart: &nbsp;Github Stats</h3>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hezizi&theme=vue&hide_border=true&height=400&radius=15&area=true" />
