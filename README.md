@@ -4,7 +4,7 @@
 
 <h3>:rocket: &nbsp;Skills I Use</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,deno,vite,rollupjs,nextjs,nuxtjs,electron,tauri,bash,pnpm&theme=light" alt="skills" width="600" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,deno,vite,rollupjs,nextjs,nuxtjs,electron,tauri,bash,mysql,supabase&theme=light" alt="skills" width="600" />
 
 <h3>:e-mail: &nbsp;Find Me</h3>
 
