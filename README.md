@@ -1,10 +1,10 @@
 <h1>Hi 👋 &nbsp;&nbsp;I'm Yucihent</h1>
 
-<p>A Front-End Developer，I'm developing some projects and will open source them one day</p>
+<p>Front-End Developer Building something</p>
 
-<h3>:rocket: &nbsp;Skills</h3>
+<h3>:rocket: &nbsp;Skills I Use</h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,vite,rollupjs,nuxtjs,nextjs,tauri,bash,tailwind&theme=light" alt="skills" width="680" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,vue,nodejs,deno,vite,rollupjs,nextjs,nuxtjs,electron,tauri,bash,pnpm&theme=light" alt="skills" width="600" />
 
 <h3>:e-mail: &nbsp;Find Me</h3>
 
