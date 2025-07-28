@@ -1,4 +1,4 @@
-<h1>Hi 👋 &nbsp;&nbsp;I'm Yucihent</h1>
+<h2>Hi 👋 &nbsp;&nbsp;I'm Yuci</h2>
 
 <p>Front-End Developer Building something</p>
 
