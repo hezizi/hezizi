@@ -1,6 +1,6 @@
 <h2>Hi 👋 &nbsp;&nbsp;I'm Yuci</h2>
 
-<p>Front-End Developer Building something</p>
+<p>Front-End Developer Building Something</p>
 
 <h3>:rocket: &nbsp;Skills I Use</h3>
 
